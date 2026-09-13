@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Natalha Rodrigues! 👋
 
-<!--
-**natalhar536-alt/natalhar536-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu portfólio técnico. Estou construindo minha base profissional no mercado de tecnologia, com foco exclusivo na área de Cibersegurança e infraestrutura de redes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+* 🎯 **Objetivo Atual:** Ingressar em posições iniciais em segurança digital (como monitoramento de segurança ou operação de sistemas), com foco em resolver desafios técnicos diretamente no computador.
+* 📚 **Estudos:** Participante do programa **Mulher Digital**, desenvolvendo competências práticas e análises de proteção de dados.
+* 🛠️ **Perfil Profissional:** Organizada, focada no cumprimento estrito de normas/processos e com raciocínio lógico apurado para identificar e mitigar problemas em sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Conhecimentos e Estudos em TI
+* **Plataforma Cisco:** Noções Básicas de Cibersegurança, Fundamentos de Redes e simulações de infraestrutura via Cisco Networking Academy.
+* **Competências Práticas:** Mapeamento de redes de computadores, cabeamento estruturado lógico e configuração inicial de ativos.
+* **Ferramentas de Suporte:** Domínio do pacote Microsoft Office (Excel e Informática Básica via Senar).
+
+## 📂 Meus Projetos em Destaque
+* [Comunicação entre 3 Redes Distintas no Cisco Packet Tracer](https://github.com) -> Projeto prático completo de infraestrutura, conectividade e cabeamento lógico de rede.
